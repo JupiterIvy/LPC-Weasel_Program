@@ -3,7 +3,7 @@
 
 - O programa da doninha de Dawkins ou Dawkins’ weasel program é um experimento ilustrado por simulações computacionais. Seu objetivo é demonstrar que o processo que impulsiona sistemas evolutivos(combinação de mudanças aleatórias com seleção não aleatória) é diferente do puro acaso.
 
-##Exemplo de algoritmo:
+## Exemplo de algoritmo:
  
 1) Inicie com uma sequência aleatória de 28 caracteres (frase).
 
