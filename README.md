@@ -53,9 +53,9 @@ py dawkins.py
 
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/gabrielrejtman"><img src="https://avatars.githubusercontent.com/u/99689271?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Rejtman</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/gabrielrejtman"><img  width="100px;" alt=""/><br /><sub><b>Gabriel Rejtman</b></sub></a><br /></td> 
     <td align="center"><a href="https://github.com/JupiterIvy"><img src="https://avatars.githubusercontent.com/u/65917017?v=4" width="100px;" alt=""/><br /><sub><b>Evelyn S. Mafra Bessa</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/dinglem"><img src="https://avatars.githubusercontent.com/u/107590118?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Machado</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/haidao01"><img src="https://avatars.githubusercontent.com/u/106715544?v=4" width="100px;" alt=""/><br /><sub><b>Francisco Neto</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sweilos"><img src="https://avatars.githubusercontent.com/u/107283230?v=4" width="100px;" alt=""/><br /><sub><b>Yago Nunes</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/dinglem"><img  width="100px;" alt=""/><br /><sub><b>Gabriel Machado</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/haidao01"><img width="100px;" alt=""/><br /><sub><b>Francisco Neto</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sweilos"><img  width="100px;" alt=""/><br /><sub><b>Yago Nunes</b></sub></a><br /></td>
 </table>
