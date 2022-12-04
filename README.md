@@ -46,5 +46,5 @@ E por fim, execute o código .py
 
 ```bash
 # Executando o arquivo
-py weasel.py
+py dawkins.py
 ```
