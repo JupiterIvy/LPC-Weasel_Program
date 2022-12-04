@@ -53,8 +53,8 @@ py dawkins.py
 
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/gabrielrejtman"><img  width="100px;" alt=""/><br /><sub><b>Gabriel Rejtman</b></sub></a><br /></td> 
-    <td align="center"><a href="https://github.com/JupiterIvy"><img src="https://avatars.githubusercontent.com/u/65917017?v=4" width="100px;" alt=""/><br /><sub><b>Evelyn S. Mafra Bessa</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/gabrielrejtman"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHu_N3qvTsMzg/profile-displayphoto-shrink_800_800/0/1641293498560?e=1675900800&v=beta&t=jeaOcNltgrHOpBuWRzhi5gY3ZxwVXNhq2RHBRZ2L-sI" width="100px;" alt=""/><br /><sub><b>Gabriel Rejtman</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/JupiterIvy"><img src="https://avatars.githubusercontent.com/u/65917017?v=4" width="100px;" alt=""/><br /><sub><b>Evelyn Bessa</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/dinglem"><img  width="100px;" alt=""/><br /><sub><b>Gabriel Machado</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/haidao01"><img width="100px;" alt=""/><br /><sub><b>Francisco Neto</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/sweilos"><img  width="100px;" alt=""/><br /><sub><b>Yago Nunes</b></sub></a><br /></td>
